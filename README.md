@@ -2,7 +2,7 @@
 
 **Last updated:** May 2026
 
-**Bharmal Tech** ("we," "our," or "us") operates the **Think Decor** mobile application (the "App") for iOS. We are deeply committed to protecting your privacy and ensuring a transparent user experience. 
+We are deeply committed to protecting your privacy and ensuring a transparent user experience. 
 
 This Privacy Policy explains how we handle data and information when you use our App. By downloading and using Think Decor, you agree to the terms outlined below.
 
